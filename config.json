@@ -1,0 +1,29 @@
+{
+    "h1":[
+        {
+            "atributos":{
+                "id": "Nombre",
+                "title": "Hola soy la etiqueta",
+                "textContent": "Hola soy como estas"
+            },
+            "style":{
+                "background": "green",
+                "color": "white",
+                "padding": ".5rem",
+                "font-family": "cursive"
+            }
+        },
+        {
+            "atributos":{
+                "title": "Este es el nombre del Profesor",
+                "textContent": "Miguel Angel Castro Escamilla"
+            },
+            "style":{
+                "background": "#800000",
+                "padding": ".5rem",
+                "color": "white",
+                "font-family": "Arial, Helvetica, sans-serif"
+            }
+        }
+    ]
+}
